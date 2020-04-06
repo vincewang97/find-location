@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# new added fodler .idea
+.idea/
+
 # C extensions
 *.so
 
